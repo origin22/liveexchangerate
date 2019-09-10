@@ -1,2 +1,3 @@
-# liveexchangerate
-Basic Exchange Rate App built with Vue and Bootstrap
+# Live Exchange Rate Dashboard
+## App Built with Vuejs and Bootstrap Framework
+### Data is fetched from Fixer IO and Country Flag fetched from Countyflags.io
